@@ -1,0 +1,1 @@
+# Django manage.py galvenais fails
