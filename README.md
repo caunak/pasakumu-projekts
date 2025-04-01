@@ -45,22 +45,19 @@ Izveidot jaunas meistarklases
 🚀 Lietošanas instrukcija
 Instalē atkarības:
 
-bash
-Copy
-Edit
 pip install flask flask_sqlalchemy flask_login
+
+
 Palaid aplikāciju:
 
-bash
-Copy
-Edit
 python main.py
+
+
 Atver pārlūkā:
 
-arduino
-Copy
-Edit
 http://localhost:5000
+
+
 🧪 Noklusējuma admin lietotājs
 Lietotājvārds: admin
 
